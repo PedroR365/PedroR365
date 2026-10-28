@@ -28,12 +28,10 @@
       <sub>MySQL</sub>
     </td>
     <td align="center" width="110">
-      <img src="b065e86233b1a2ef1de9de173935fef2.png" width="40" alt="DBeaver" /><br>
-      <sub>CSS3</sub>
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/500px-CSS3_logo_and_wordmark.svg.png" height="50" alt="CSS3" />
     </td>
     <td align="center" width="110">
-      <img src="[CITYPNG.COM]HTML5 Logo Icon 3D HD PNG - 2000x2000.png" width="60" alt="html5" /><br>
-      <sub>HTML5</sub>
+      <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="50" alt="HTML5" />
     </td>
     <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="Docker" /><br>
